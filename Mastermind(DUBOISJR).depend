@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511537895 source:z:\mastermind(duboisjr)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
